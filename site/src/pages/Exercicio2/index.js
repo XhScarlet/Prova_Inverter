@@ -61,7 +61,7 @@ export default function Figurinha(){
                     </button>
 
                     <div>
-                        {numeros2.map(item=>
+                        {numeros2.map(item=
                             <p>{item}</p>
                             )}
                     </div>
